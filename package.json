@@ -1,6 +1,6 @@
 {
   "name": "sperte-static_resources",
-  "version": "1.0.3",
+  "version": "1.0.3002",
   "description": "静态资源仓库",
   "main": "index.js",
   "scripts": {
